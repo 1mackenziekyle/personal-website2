@@ -1,0 +1,14 @@
+$bg-color: #fffbfc;
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: $bg-color;
+}
+
+.logo {
+  position: fixed;
+  margin-top: 1.2em;
+  margin-left: 0.6em;
+  height: 5em;
+}
